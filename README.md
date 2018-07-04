@@ -16,4 +16,18 @@ The output is a trained network, and the accuracy is displayed when running the 
 
 For convenience I have uploaded my anaconda virtual environment setup (using python 3.6) so you can install and get started straight away (requirements.txt)
 
-From training the model, we obtain a 72.5% prediction accuracy i.e. the likelihood that based on the three data types we can predict whether or not a student will get accepted with a 72.5% accuracy.
+From training the model, we obtain a 72.5% prediction accuracy i.e. the likelihood that based on the three data types we can predict whether or not a student will get accepted with a 72.5% accuracy, like so :
+
+```
+Train loss:  0.2627609384996635
+Train loss:  0.20928619409324875
+Train loss:  0.20084292908073423
+Train loss:  0.19862156475527873
+Train loss:  0.1977985139668603
+Train loss:  0.19742577912189868
+Train loss:  0.1972350774624106
+Train loss:  0.1971294562509248
+Train loss:  0.19706766341315082
+Train loss:  0.19703005801777368
+Prediction accuracy: 0.725
+```
